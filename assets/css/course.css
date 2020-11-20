@@ -1,0 +1,69 @@
+.container-accordion .card .card-body{
+	padding: 15px;
+}
+.container-accordion .card .card-header .btn-link {
+    color: #000000;
+    font-family: 'lato-bold';
+    font-size: 1.02rem;
+}
+.container-accordion .card .card-header .btn-link:hover{
+	cursor: pointer;
+}
+.container-accordion .card .card-body .time {
+    margin-left: 12px;
+    width: 15%;
+    text-align: right;
+}
+.container-accordion .card .card-body table{
+	width: 100%;
+}
+.container-accordion .card .card-body table tr {
+
+}
+.container-accordion .card .card-body table tr .modul-title:hover{
+	cursor: pointer;
+	text-decoration: underline;
+}
+.container-accordion .card .card-body table tr .number {
+    margin-right: 10px;
+    font-size: 0.9rem;
+    width: 9%;
+}
+.container-accordion .card .card-body table tr .modul-title {
+    font-size: 0.8rem;
+    line-height: 16px;
+    width: 76%;
+    padding: 5px 0;
+}
+.description-class {
+    padding: 10px 0;
+    font-size: 1rem;
+}
+.benefits-from-class ul {
+    padding-left: 18px;
+    margin: 0;
+}
+.benefits-from-class ul li {
+    font-size: 1rem;
+    margin-bottom: 6px;
+}
+.benefits-from-class h4 {
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+.line-break {
+    width: 100%;
+    background-color: #C9CFCF;
+    margin: 50px 0;
+    height: 1px;
+}
+
+.container-absolute-accordion {
+    position: relative;
+}
+#accordion {
+    height: 600px;
+    overflow-y: scroll;
+    position: absolute;
+    width: 100%;
+}

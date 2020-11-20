@@ -1,0 +1,25 @@
+.section-access-title {
+    font-size: 2rem;
+    font-weight: 700;
+}
+.section-access-desc {
+    font-size: 1.25rem;
+}
+.pricing-access {
+    box-shadow: 0 5px 45px 5px rgba(0, 0, 0, 0.13);
+    border: none;
+    padding: 20px;
+    text-align: center;
+}
+.pricing-access .card-block h4 {
+    font-weight: 700;
+    font-size: 2rem;
+    margin-bottom: 15px;
+}
+.pricing-access .card-block .price {
+    font-size: 1.5rem;
+}
+.pricing-access .card-block .desc {
+    font-size: 1.05rem;
+    margin-bottom: 5px;
+}
