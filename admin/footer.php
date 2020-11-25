@@ -13,7 +13,11 @@
   <!-- ./wrapper -->
 
   <script type="text/javascript">
-    CKEDITOR.replace("editor");
+    CKEDITOR.replace("description");
+    CKEDITOR.replace("requirement");
+    CKEDITOR.replace("what_you_get");
+    CKEDITOR.replace("this_course_included");
+
   </script>
 
   <!-- jQuery 3 -->
@@ -53,5 +57,7 @@
   <script src="assets/js/dashboard.js"></script>
   <!-- AdminLTE for demo purposes -->
   <script src="assets/js/demo.js"></script>
+  <script src="assets/js/back.js"></script>
+  
   </body>
   </html>

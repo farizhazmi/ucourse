@@ -35,7 +35,7 @@
             <tbody>
               <tr>
                 <td>1</td>
-                <td><a href="">Programming Fundamental with Python</a></td>
+                <td><a href="coursedetail.php">Programming Fundamental with Python</a></td>
                 <td>4.7</td>
                 <td>120</td>
                 <td>30</td>

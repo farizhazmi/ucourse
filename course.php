@@ -7,6 +7,20 @@
 			<div class="container">
 				<div class="header-text">
 					<h1>Programming Fundamental <br /> with Python</h1>
+					<div class="review">
+						<span class="material-icons yellow">grade</span>
+						<span class="material-icons yellow">grade</span>
+						<span class="material-icons yellow">grade</span>
+						<span class="material-icons yellow">grade</span>
+						<span class="material-icons yellow">grade</span>
+					</div>
+					<div class="summary-desc-class">
+						<ul class="justify-content-center">
+							<li><span class="material-icons">bookmarks</span> &nbsp; 25 Materi</li>
+							<li><span class="material-icons">access_time</span> &nbsp; 10 Jam</li>
+							<li><span class="material-icons">supervisor_account</span> &nbsp; 10 Students</li>
+						</ul>
+					</div>
 					<a href="access.php" class="btn btn-enroll-class">Daftar Kelas</a>
 				</div>
 			</div>
@@ -141,7 +155,7 @@
 				<div class="col-md-12"><div class="line-break"></div></div>
 			</div>
 			<div class="row">
-				<div class="col-md-12 text-center pb-50 pt-50">
+				<div class="col-md-12 text-center pt-50">
 					<h4 style="font-family: 'lato-bold'; font-size: 3rem;">Ready for upgrade <br /> your skills?</h4>
 					<a href="" class="btn btn-enroll-class">Daftar Kelas</a>
 				</div>

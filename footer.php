@@ -2,7 +2,8 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					© 2020 Ucourse, Inc
+					<hr />
+					<p>© 2020 Ucourse, Inc</p>
 				</div>
 			</div>
 		</div>

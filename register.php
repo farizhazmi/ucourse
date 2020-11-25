@@ -7,10 +7,10 @@
 			<div class="row justify-content-center">
 				<div class="col-md-5">
 					<div class="register-box">
-						<h1 class="auth-title">Masuk kedalam akun kamu</h1>
+						<h1 class="auth-title">Sign up your account now</h1>
 						<form>
 							<div class="form-group">
-								<label>Fullname</label>
+								<label>Full Name</label>
 								<input type="text" name="fullname" class="form-control" />
 							</div>
 							<div class="form-group">

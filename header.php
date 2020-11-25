@@ -20,12 +20,12 @@
 			  </button>
 			  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
 			    <ul class="navbar-nav ml-auto">
-					<li><a class="nav-link" href="#">KELAS</a></li>
-					<li><a class="nav-link" href="#">BLOG</a></li>
-					<li><a class="nav-link" href="#">FORUM</a></li>
+					<li><a class="nav-link" href="#">All Class</a></li>
+					<li><a class="nav-link" href="#">Contact Us</a></li>
+					<li><a class="nav-link" href="access.php">Get Access</a></li>
 					<li><a class="nav-link separator" href="#">|</a></li>
-					<li><a class="nav-link btn-login-app" href="login.php">MASUK</a></li>
-					<li><a class="nav-link btn-register-app" href="register.php">DAFTAR</a></li>
+					<li><a class="nav-link btn-login-app" href="login.php">Login</a></li>
+					<li><a class="nav-link btn-register-app" href="register.php">Register</a></li>
 			    </ul>
 			  </div>
 			</nav>

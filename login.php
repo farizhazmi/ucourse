@@ -7,7 +7,7 @@
 			<div class="row justify-content-center">
 				<div class="col-md-5">
 					<div class="login-box">
-						<h1 class="auth-title">Masuk kedalam akun kamu</h1>
+						<h1 class="auth-title">Sign in to your account</h1>
 						<form>
 							<div class="form-group">
 								<label>Email</label>
