@@ -6,7 +6,7 @@
 		<div class="section-overlay">
 			<div class="container">
 				<div class="header-text">
-					<h1>Build your future career <br> with improve your skills every day</h1>
+					<h1>Build your future career <br> with improve skills every day</h1>
 					<p>Pelajari keahlian baru yang dibutuhkan oleh <br /> startup atauperusahaan IT terbesar di seluruh dunia</p>
 					<a href="access.php" class="btn btn-enroll-class">Daftar Kelas</a>
 				</div>
@@ -26,7 +26,7 @@
 			</div>
 
 			<div class="row mb-5">
-				<div class="col-md-4">
+				<div class="col-sm-12 col-md-6 col-lg-4">
 					<a href="course.php" class="box-class">
 						<div class="thumbnail">
 							<img class="full-width" src="assets/images/thumbnail.jpg" />
@@ -48,7 +48,7 @@
 						</div>
 					</a>
 				</div>
-				<div class="col-md-4">
+				<div class="col-sm-12 col-md-6 col-lg-4">
 					<a href="" class="box-class">
 						<div class="thumbnail">
 							<img class="full-width" src="assets/images/thumbnail.jpg" />
@@ -72,7 +72,7 @@
 						</div>
 					</a>
 				</div>
-				<div class="col-md-4">
+				<div class="col-sm-12 col-md-6 col-lg-4">
 					<a href="" class="box-class">
 						<div class="thumbnail">
 							<img class="full-width" src="assets/images/thumbnail.jpg" />
@@ -106,12 +106,12 @@
 		</div>
 	</section>
 
-	<section>
+	<section class="bg-light">
 		<div class="container">
-			<div class="row mb-4">
+			<div class="row mb-3">
 				<div class="col-md-12">
 					<div class="container-section-text">
-						<h4 class="text-center">Kenapa harus kami?</h4>
+						<h4 class="text-center">Apa yang Kami Miliki?</h4>
 					</div>
 				</div>
 			</div>
@@ -141,7 +141,7 @@
 		</div>
 	</section>
 
-	<section class="bg-light">
+	<section>
 		<div class="container">
 			<div class="row mb-4">
 				<div class="col-md-12">

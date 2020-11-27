@@ -20,7 +20,7 @@
 			  </button>
 			  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
 			    <ul class="navbar-nav ml-auto">
-					<li><a class="nav-link" href="#">All Class</a></li>
+					<li><a class="nav-link" href="courses.php">All Class</a></li>
 					<li><a class="nav-link" href="#">Contact Us</a></li>
 					<li><a class="nav-link" href="access.php">Get Access</a></li>
 					<li><a class="nav-link separator" href="#">|</a></li>

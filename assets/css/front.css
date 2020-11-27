@@ -53,7 +53,7 @@ a:hover{
 .container-section-text h4{
 	font-size: 2rem;
     font-family: 'lato-bold';
-    margin-bottom: 50px;
+    margin-bottom: 20px;
 }
 .container-section-text p{
 	font-size: 1.2rem;
@@ -78,7 +78,7 @@ a:hover{
 }
 .bg-main-header {
     position: relative;
-    height: 700px;
+    height: 750px;
 }
 .bg-main-header .section-overlay {
     background-color: rgba(35, 37, 47, 0.7);
@@ -168,6 +168,7 @@ a:hover{
 	transition: 0.25s ease-in-out;
 	display: block;
 	box-shadow: 0 5px 45px 5px rgba(0, 0, 0, 0.13);
+    margin-bottom: 20px;
 }
 
 .box-class:hover{
@@ -218,6 +219,7 @@ a:hover{
 .featured-box h4 {
     font-family: 'lato';
     font-size: 1.4rem;
+    font-weight: 600;
 }
 
 .featured-box p {
@@ -317,6 +319,34 @@ a:hover{
 		display: none;
 	}
 	/* End Navbar */
+
+    /* Home */
+    .bg-main-header{
+        height: 400px;
+    }
+    .bg-main-header .header-text {
+        padding-top: 80px;
+    }
+    .bg-main-header .header-text h1 {
+        font-size: 2rem;
+    }
+    .bg-main-header .header-text p {
+        font-size: 1rem;
+    }
+    .btn {
+        font-size: 0.7rem;
+        padding: 8px 20px;
+    }
+    section {
+        padding: 50px 0;
+    }
+    .container-section-text h4 {
+        margin-bottom: 20px;
+    }
+    .container-section-text p {
+        font-size: 1rem;
+    }
+    /* End */
 }
 
 /* End Responsive Style */

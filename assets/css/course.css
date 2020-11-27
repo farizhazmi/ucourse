@@ -39,6 +39,10 @@
     padding: 10px 0;
     font-size: 1rem;
 }
+.benefits-from-class {
+    margin-bottom: 25px;
+    overflow: hidden;
+}
 .benefits-from-class ul {
     padding-left: 18px;
     margin: 0;
@@ -81,3 +85,11 @@
     font-weight: 700;
     display: flex;
 }
+
+/* Small devices (landscape phones, 576px and up) */
+@media (max-width: 767px) {
+    #accordion{
+        position: unset;
+    }
+}
+

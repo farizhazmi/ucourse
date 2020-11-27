@@ -16,6 +16,7 @@ section{
     border: none;
     padding: 20px;
     text-align: center;
+    margin-bottom: 30px;
 }
 .pricing-access .card-block h4 {
     font-weight: 700;
@@ -29,3 +30,11 @@ section{
     font-size: 1.05rem;
     margin-bottom: 5px;
 }
+
+/* Small devices (landscape phones, 576px and up) */
+@media (max-width: 767px) {
+    section {
+        padding: 150px 0 10px 0;
+    }
+}
+
