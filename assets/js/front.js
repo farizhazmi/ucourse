@@ -5,6 +5,18 @@ $('.datepicker').each(function(){
     });
 });
 
+function readURL(input) {
+  console.log("masuk");
+  if (input.files && input.files[0]) {
+    var reader = new FileReader();
+    
+    reader.onload = function(e) {
+      $('#preview-profile-picture').attr('src', e.target.result);
+    }
+    
+    reader.readAsDataURL(input.files[0]); // convert to base64 string
+  }
+}
 
 function alertError(msg){
 	swal({

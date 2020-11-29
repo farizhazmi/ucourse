@@ -159,6 +159,19 @@ a:hover{
 .container-bg-text p {
     font-size: 1.2rem;
 }
+.btn-menu-profile {
+    width: 100px;
+}
+
+.btn-menu-profile {
+    width: 60px;
+    padding: 0;
+}
+
+.btn-menu-profile img {
+    width: 100%;
+    border-radius: 50%;
+}
 /* End Navbar */
 
 
